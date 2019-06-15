@@ -12,11 +12,11 @@
             "NoOfImages": "3",
             "Height": "761",
             "Width": "528",
-            "GameobjectName": "NeonBirthday",
+            "GameobjectName": "NeonBirthday"
         },
         {
             "App_Version": "1.0",
-            "Theme_Name": "Birthday Ribbon",
+            "Theme_Name": "Birthday Ribbon"
             "Theme_Bundle": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Birthday/Birthday%20Ribbon/BirthdayRibbon.unity3d",
             "bundle_size": "1836521",
             "Thumnail_Big": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Birthday/Birthday%20Ribbon/BirthdayRibbon.png",
@@ -26,7 +26,7 @@
             "NoOfImages": "4",
             "Height": "604",
             "Width": "604",
-            "GameobjectName": "Round_bday",
+            "GameobjectName": "Round_bday"
         },
         {
             "App_Version": "1.0",
@@ -40,7 +40,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "WhiteBirthday",
+            "GameobjectName": "WhiteBirthday"
         },
         {
             "App_Version": "1.0",
@@ -54,7 +54,7 @@
             "NoOfImages": "4",
             "Height": "585",
             "Width": "585",
-            "GameobjectName": "white_neon_birthday",
+            "GameobjectName": "white_neon_birthday"
         },
         {
             "App_Version": "1.0",
@@ -68,7 +68,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "BirthdayTheme",
+            "GameobjectName": "BirthdayTheme"
         }
     ]
 }

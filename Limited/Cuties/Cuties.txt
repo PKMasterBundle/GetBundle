@@ -11,7 +11,7 @@
 		"NoOfImages": "5",
 		"Height": "658",
 		"Width": "457",
-		"GameobjectName": "BabyTheme",
+		"GameobjectName": "BabyTheme"
 	}, {
 		"App_Version": "1.0",
 		"Theme_Name": "Childhood Dairy",
@@ -24,7 +24,7 @@
 		"NoOfImages": "5",
 		"Height": "828",
 		"Width": "456",
-		"GameobjectName": "Kids",
+		"GameobjectName": "Kids"
 	}, {
 		"App_Version": "1.0",
 		"Theme_Name": "Hanging Baby",
@@ -37,6 +37,6 @@
 		"NoOfImages": "5",
 		"Height": "875",
 		"Width": "572",
-		"GameobjectName": "hangingBaby",
+		"GameobjectName": "hangingBaby"
 	}]
 }

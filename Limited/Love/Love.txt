@@ -12,7 +12,7 @@
             "NoOfImages": "6",
             "Height": "895",
             "Width": "506",
-            "GameobjectName": "MothersDayTheme",
+            "GameobjectName": "MothersDayTheme"
         },
         {
             "App_Version": "1.0",
@@ -26,7 +26,7 @@
             "NoOfImages": "4",
             "Height": "744",
             "Width": "408",
-            "GameobjectName": "Love_Tree",
+            "GameobjectName": "Love_Tree"
         },
         {
             "App_Version": "1.0",
@@ -40,7 +40,7 @@
             "NoOfImages": "3",
             "Height": "560",
             "Width": "610",
-            "GameobjectName": "SkyHeart",
+            "GameobjectName": "SkyHeart"
         },
         {
             "App_Version": "1.0",
@@ -54,7 +54,7 @@
             "NoOfImages": "4",
             "Height": "885",
             "Width": "630",
-            "GameobjectName": "CoupleLove",
+            "GameobjectName": "CoupleLove"
         },
         {
             "App_Version": "1.0",
@@ -68,7 +68,7 @@
             "NoOfImages": "10",
             "Height": "740",
             "Width": "550",
-            "GameobjectName": "BallonHeart",
+            "GameobjectName": "BallonHeart"
         }
     ]
 }

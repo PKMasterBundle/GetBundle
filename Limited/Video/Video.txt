@@ -12,7 +12,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Cinematic",
+            "GameobjectName": "Cinematic"
         },
         {
             "App_Version": "1.0",
@@ -26,7 +26,7 @@
             "NoOfImages": "8",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "CountDownNew",
+            "GameobjectName": "CountDownNew"
         },
         {
             "App_Version": "1.0",
@@ -40,7 +40,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "FireTheme",
+            "GameobjectName": "FireTheme"
         },
         {
             "App_Version": "1.0",
@@ -54,7 +54,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "IphoneTheme",
+            "GameobjectName": "IphoneTheme"
         },
         {
             "App_Version": "1.0",
@@ -68,7 +68,7 @@
             "NoOfImages": "4",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "MagicOfFour",
+            "GameobjectName": "MagicOfFour"
         },
         {
             "App_Version": "1.0",
@@ -82,7 +82,7 @@
             "NoOfImages": "1",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "puzzleSqure",
+            "GameobjectName": "puzzleSqure"
         },
         {
             "App_Version": "1.0",
@@ -96,7 +96,7 @@
             "NoOfImages": "4",
             "Height": "731",
             "Width": "588",
-            "GameobjectName": "Wanted",
+            "GameobjectName": "Wanted"
         },
         {
             "App_Version": "1.0",
@@ -110,7 +110,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "VideoD",
+            "GameobjectName": "VideoD"
         },
         {
             "App_Version": "1.0",
@@ -124,7 +124,7 @@
             "NoOfImages": "6",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Phn_SS",
+            "GameobjectName": "Phn_SS"
         },
         {
             "App_Version": "1.0",
@@ -138,7 +138,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "black&white",
+            "GameobjectName": "black&white"
         },
         {
             "App_Version": "1.0",
@@ -152,7 +152,7 @@
             "NoOfImages": "7",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Masking_video",
+            "GameobjectName": "Masking_video"
         },
         {
             "App_Version": "1.0",
@@ -166,7 +166,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "DiskoLigth",
+            "GameobjectName": "DiskoLigth"
         },
         {
             "App_Version": "1.0",
@@ -180,7 +180,7 @@
             "NoOfImages": "5",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "UIDissolveTheme",
+            "GameobjectName": "UIDissolveTheme"
         },
         {
             "App_Version": "1.0",
@@ -194,7 +194,7 @@
             "NoOfImages": "4",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "DiscoLightTheme",
+            "GameobjectName": "DiscoLightTheme"
         }
     ]
 }
