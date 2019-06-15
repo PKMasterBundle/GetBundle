@@ -16,7 +16,7 @@
         },
         {
             "App_Version": "1.0",
-            "Theme_Name": "Birthday Ribbon"
+            "Theme_Name": "Birthday Ribbon",
             "Theme_Bundle": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Birthday/Birthday%20Ribbon/BirthdayRibbon.unity3d",
             "bundle_size": "1836521",
             "Thumnail_Big": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Birthday/Birthday%20Ribbon/BirthdayRibbon.png",
