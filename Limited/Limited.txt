@@ -1,7 +1,4 @@
 {	
-	"status": true,
-	"error": 200,
-	"message": "Success",
 	"data": [{
 		"Cat_Name": "What's New",
 		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
