@@ -1,5 +1,5 @@
 {
-	"newTheme": [{
+	"data": [{
 		"App_Version": "1.0",
 		"Theme_Name": "Anniversary Frame",
 		"Theme_Bundle": "https://github.com/PKMasterBundle/GetBundle/blob/master/Limited/Wedding/Anniversary%20Frame/AnniversaryFrame.unity3d?raw=true",
