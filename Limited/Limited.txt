@@ -1,24 +1,24 @@
 {	
 	"data": [{
 		"Cat_Name": "What's New",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}, {
 		"Cat_Name": "Wedding",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}, {
 		"Cat_Name": "Cuties",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}, {
 		"Cat_Name": "Holiday",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}, {
 		"Cat_Name": "Birthday",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}, {
 		"Cat_Name": "Love",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}, {
 		"Cat_Name": "Video",
-		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew"
+		"Cat_Url": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/WhatsNew.txt"
 	}]
 }
