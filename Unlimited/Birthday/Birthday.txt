@@ -12,7 +12,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "UlitimateBirthday",
+            "GameobjectName": "UlitimateBirthday"
         },
         {
             "App_Version": "1.0",
@@ -27,7 +27,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Birthday_Magic_UL",
+            "GameobjectName": "Birthday_Magic_UL"
         },
         {
             "App_Version": "1.0",
@@ -41,7 +41,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Birthday_general_UL",
+            "GameobjectName": "Birthday_general_UL"
         },
         {
             "App_Version": "1.0",
@@ -55,7 +55,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Neon_Birthday_UL",
+            "GameobjectName": "Neon_Birthday_UL"
         }
     ]
 }

@@ -12,7 +12,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Travel_ThemeUL",
+            "GameobjectName": "Travel_ThemeUL"
         },
         {
             "App_Version": "1.0",
@@ -26,7 +26,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Travel_World_UL",
+            "GameobjectName": "Travel_World_UL"
         },
         {
             "App_Version": "1.0",
@@ -40,7 +40,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Holiday-ThemeUN",
+            "GameobjectName": "Holiday-ThemeUN"
         }
     ]
 }

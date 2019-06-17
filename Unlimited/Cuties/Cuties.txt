@@ -12,7 +12,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "BabyThemeUL",
+            "GameobjectName": "BabyThemeUL"
         },
         {
             "App_Version": "1.0",
@@ -26,7 +26,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Kids_general_UL",
+            "GameobjectName": "Kids_general_UL"
         }
     ]
 }

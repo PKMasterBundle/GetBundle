@@ -12,7 +12,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Ramadan_Golden",
+            "GameobjectName": "Ramadan_Golden"
         },
         {
             "App_Version": "1.0",
@@ -26,7 +26,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "MothersDaySlidespink",
+            "GameobjectName": "MothersDaySlidespink"
         },
         {
             "App_Version": "1.0",
@@ -40,7 +40,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "PortraitShapeZoomOut",
+            "GameobjectName": "PortraitShapeZoomOut"
         },
         {
             "App_Version": "1.0",
@@ -54,7 +54,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "PinkModifier",
+            "GameobjectName": "PinkModifier"
         },
         {
             "App_Version": "1.0",
@@ -68,7 +68,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "OpenerSlides",
+            "GameobjectName": "OpenerSlides"
         },
         {
             "App_Version": "1.0",
@@ -82,7 +82,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "HartLove",
+            "GameobjectName": "HartLove"
         },
         {
             "App_Version": "1.0",
@@ -96,7 +96,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "FlowerSlidwshow",
+            "GameobjectName": "FlowerSlidwshow"
         },
         {
             "App_Version": "1.0",
@@ -110,7 +110,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "DissolveCollage",
+            "GameobjectName": "DissolveCollage"
         },
         {
             "App_Version": "1.0",
@@ -124,7 +124,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "SlideShowSlice",
+            "GameobjectName": "SlideShowSlice"
         },
         {
             "App_Version": "1.0",
@@ -138,7 +138,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "leavetree",
+            "GameobjectName": "leavetree"
         },
         {
             "App_Version": "1.0",
@@ -152,7 +152,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "ColorTheme",
+            "GameobjectName": "ColorTheme"
         }
     ]
 }

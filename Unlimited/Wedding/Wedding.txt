@@ -12,7 +12,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720
-            "GameobjectName": "wedding_anniversary_Slide",
+            "GameobjectName": "wedding_anniversary_Slide"
         },
         {
             "App_Version": "1.0",
@@ -26,7 +26,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "AnniversaryUL",
+            "GameobjectName": "AnniversaryUL"
         }
     ]
 }
