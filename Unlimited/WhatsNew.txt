@@ -11,7 +11,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "UlitimateBirthday",
+            "GameobjectName": "UlitimateBirthday"
         },  {
             "App_Version": "1.0",
             "Theme_Name": "Pink Fade",
@@ -24,7 +24,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "LOVE_Theme",
+            "GameobjectName": "LOVE_Theme"
         },  {
             "App_Version": "1.0",
             "Theme_Name": "Anniversary Frame",
@@ -37,7 +37,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720
-            "GameobjectName": "wedding_anniversary_Slide",
+            "GameobjectName": "wedding_anniversary_Slide"
         }, {
             "App_Version": "1.0",
             "Theme_Name": "Childhood Dairy",
@@ -50,7 +50,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Kids_general_UL",
+            "GameobjectName": "Kids_general_UL"
         }, {
             "App_Version": "1.0",
             "Theme_Name": "World Tour",
@@ -63,7 +63,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Travel_ThemeUL",
+            "GameobjectName": "Travel_ThemeUL"
         }, {
             "App_Version": "1.0",
             "Theme_Name": "Birthday Flip",
@@ -76,7 +76,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "Birthday_general_UL",
+            "GameobjectName": "Birthday_general_UL"
         },  {
             "App_Version": "1.0",
             "Theme_Name": "Love Tree",
@@ -89,7 +89,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "LOVE_THEMEUnlimited",
+            "GameobjectName": "LOVE_THEMEUnlimited"
         },  {
             "App_Version": "1.0",
             "Theme_Name": "grid puzzle",
@@ -102,7 +102,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "PortraitShapeZoomOut",
+            "GameobjectName": "PortraitShapeZoomOut"
         }, {
             "App_Version": "1.0",
             "Theme_Name": "abstract",
@@ -115,7 +115,7 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "DissolveCollage",
+            "GameobjectName": "DissolveCollage"
         },{
             "App_Version": "1.0",
             "Theme_Name": "jumping shapes",
@@ -128,6 +128,6 @@
             "NoOfImages": "50",
             "Height": "1280",
             "Width": "720",
-            "GameobjectName": "ColorTheme",
+            "GameobjectName": "ColorTheme"
         }]
 }
