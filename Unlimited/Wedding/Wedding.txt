@@ -11,7 +11,7 @@
             "sound_size": "712647",
             "NoOfImages": "50",
             "Height": "1280",
-            "Width": "720
+            "Width": "720",
             "GameobjectName": "wedding_anniversary_Slide"
         },
         {
