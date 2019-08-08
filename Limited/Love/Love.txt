@@ -7,7 +7,7 @@
             "bundle_size": "3462693",
             "Thumnail_Big": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Love/Happy%20Mother's%20day/HappyMother'sday.jpg",
             "SoundName": "memories",
-            "SoundFile": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Love/Happy%20Mother's%20day/HappyMother'sday.jpg",
+            "SoundFile": "https://raw.githubusercontent.com/PKMasterBundle/GetBundle/master/Limited/Love/Happy%20Mother's%20day/HappyMother'sday.mp3",
             "sound_size": "1158791",
             "NoOfImages": "6",
             "Height": "895",
